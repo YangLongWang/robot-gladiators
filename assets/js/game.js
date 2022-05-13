@@ -1,5 +1,4 @@
 // Game States
-// "LOSE" - Player robot's health is zero or less
 
 var fight = function(enemy) {
 
